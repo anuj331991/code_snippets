@@ -18,7 +18,13 @@ function getCategoryTree()
         array('id' => 3, 'parent_id' => 1, 'name' => 'tablets'),
         array('id' => 4, 'parent_id' => 2, 'name' => 'iphone'),
         array('id' => 5, 'parent_id' => 0, 'name' => 'books'),
-        array('id' => 6, 'parent_id' => 5, 'name' => 'adult_book'),
+        array('id' => 6, 'parent_id' => 5, 'name' => 'autobiography'),
+        array('id' => 7, 'parent_id' => 2, 'name' => 'samsung'),
+        array('id' => 8, 'parent_id' => 2, 'name' => 'nokia'),
+        array('id' => 9, 'parent_id' => 3, 'name' => 'google nexus 7'),
+        array('id' => 10, 'parent_id' => 5, 'name' => 'novels'),
+        array('id' => 11, 'parent_id' => 10, 'name' => '2 states'),
+        array('id' => 12, 'parent_id' => 10, 'name' => '3 mistakes of my life'),
 
     );
 
